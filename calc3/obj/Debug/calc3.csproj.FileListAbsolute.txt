@@ -1,0 +1,15 @@
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\App.g.cs
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3_MarkupCompile.cache
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3_MarkupCompile.lref
+C:\Users\Tom\source\repos\calc3\calc3\bin\Debug\calc3.exe.config
+C:\Users\Tom\source\repos\calc3\calc3\bin\Debug\calc3.exe
+C:\Users\Tom\source\repos\calc3\calc3\bin\Debug\calc3.pdb
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\MainWindow.baml
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3.g.resources
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3.Properties.Resources.resources
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3.exe
+C:\Users\Tom\source\repos\calc3\calc3\obj\Debug\calc3.pdb
